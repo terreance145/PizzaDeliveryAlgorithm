@@ -1,3 +1,4 @@
+0. Decide where to order from
 1. Decide on pizza to order
 2.Decide how to order the pizza/ where from (phone, website)
 3. Set up an order for pizza
